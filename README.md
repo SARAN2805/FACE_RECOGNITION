@@ -1,18 +1,11 @@
 # FACE_RECOGNITION
-=======
-# Face Recogniton GUI-APP
 
 # A very Simple Gui app for Face Detection 
 
   - Collect Face Data
   - Build Face Classifier 
   - Detecte the face
-
-#  New Features!
-
-  - Add Emotion detection
-  - Fixed image loading in Linux 
-  
+ 
   
 # Installation
 
