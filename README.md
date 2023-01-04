@@ -5,7 +5,11 @@
   - Collect Face Data
   - Build Face Classifier 
   - Detecte the face
- 
+
+Download all those models and put them in the data folder 
+
+ https://www.mediafire.com/folder/a17rjtfzq8yne/
+
   
 # Installation
 
@@ -19,8 +23,3 @@ $ pip install -r  requirements.txt
 
 ```sh
 $ python app-gui.py
-
-
-Download all those models and put them in the data folder 
-
- https://www.mediafire.com/folder/a17rjtfzq8yne/
